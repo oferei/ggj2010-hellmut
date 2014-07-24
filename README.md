@@ -7,9 +7,9 @@ Global Game Jam page:
 http://archive.globalgamejam.org/2010/hellmut
 
 Credits:
-Shay Ganor
-Liron Druyan
-Nadav Nevo
-Yaniv Pe'er
-Ofer Reichman
-Assaf Ronen
+* Shay Ganor
+* Liron Druyan
+* Nadav Nevo
+* Yaniv Pe'er
+* Ofer Reichman
+* Assaf Ronen
