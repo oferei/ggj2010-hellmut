@@ -1,7 +1,7 @@
 Hellmüt
 =======
 
-Our game of GGJ 2010.
+The game we made in GGJ 2010.
 
 Global Game Jam page:
 http://archive.globalgamejam.org/2010/hellmut
